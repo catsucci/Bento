@@ -31,7 +31,7 @@ const CONFIG = {
   weatherUnit: "C", // 'F', 'C'
   language: "en", // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+  trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
   defaultLatitude: "34.679169",
   defaultLongitude: "-1.919240",
 
@@ -85,7 +85,7 @@ const CONFIG = {
       id: "6",
       name: "Odysee",
       icon: "youtube",
-      link: "https://odysee.com/",
+      link: "https://www.youtube.com/",
     },
   ],
 
@@ -135,24 +135,24 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: "music",
+      icon: "coffee",
       id: "1",
       links: [
         {
-          name: "Inspirational",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "Lospec",
+          link: "https://lospec.com/",
         },
         {
-          name: "Classic",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "Aseprite Docs",
+          link: "https://www.aseprite.org/docs/",
         },
         {
-          name: "Oldies",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "Pinterest",
+          link: "https://www.pinterest.com/",
         },
         {
-          name: "Rock",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "ChatGPT",
+          link: "https://chat.openai.com/",
         },
       ],
     },
@@ -169,8 +169,8 @@ const CONFIG = {
           link: "https://www.dribbble.com",
         },
         {
-          name: "Trello",
-          link: "https://www.trello.com",
+          name: "Miro",
+          link: "https://miro.com/app/dashboard/",
         },
         {
           name: "Slack",

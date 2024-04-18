@@ -174,7 +174,7 @@ const CONFIG = {
         },
         {
           name: "Slack",
-          link: "https://www.slack.com",
+          link: "https://app.slack.com/client/T06TX42LKCN/C06TX42MY1L",
         },
       ],
     },

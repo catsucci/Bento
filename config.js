@@ -176,6 +176,10 @@ const CONFIG = {
           name: "Slack",
           link: "https://app.slack.com/client/T06TX42LKCN/C06TX42MY1L",
         },
+        {
+          name: "Eraser",
+          link: "https://app.eraser.io/dashboard/all",
+        },
       ],
     },
   ],

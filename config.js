@@ -151,8 +151,8 @@ const CONFIG = {
           link: "https://www.pinterest.com/",
         },
         {
-          name: "ChatGPT",
-          link: "https://chat.openai.com/",
+          name: "Dribbble",
+          link: "https://www.dribbble.com",
         },
       ],
     },
@@ -161,12 +161,8 @@ const CONFIG = {
       id: "2",
       links: [
         {
-          name: "Linkedin",
-          link: "https://www.linkedin.com",
-        },
-        {
-          name: "Dribbble",
-          link: "https://www.dribbble.com",
+          name: "ChatGPT",
+          link: "https://chat.openai.com/",
         },
         {
           name: "Miro",
